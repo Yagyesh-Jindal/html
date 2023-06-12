@@ -1,0 +1,48 @@
+/* Universal Selector */
+*{
+    margin: 5%;
+}
+
+
+/* Type selector */
+body{
+    color: aqua;
+    background-color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+/* Class Selector */
+.first {
+    color: blueviolet;
+}
+
+.large{
+    font-size: 30px;
+}
+
+/* ID Selector */
+#eklist {
+background-color: aliceblue;
+}
+
+/* Attribute Selector */
+a[href="google.com"] {
+    color: red;
+    text-decoration: none;
+}
+
+input[type="text"] {
+
+    background-color: brown;
+    color: aliceblue;
+}
+
+input[type="email"] {
+    background-color: blue;
+}
+
+/* Pseudo Selector */
+.first:hover {
+    color: aqua;
+}
