@@ -63,7 +63,7 @@ body {
 
 .menuitem {
     margin-left: 50px;
-    background: linear-gradient(black , rgb(205,205,205),rgb(215,215,215));
+    background: linear-gradient(white , rgb(205,205,205),rgb(215,215,215));
     padding: 10px 15px;
     filter: drop-shadow(5px 5px 3px grey);
 }
@@ -117,7 +117,7 @@ body {
     line-height: 2rem;
 }
 .showCVbutton {
-    background: linear-gradient(black , rgb(205,205,205),rgb(215,215,215));
+    background: linear-gradient(white , rgb(205,205,205),rgb(215,215,215));
     padding: 10px 15px;
     filter: drop-shadow(5px 5px 3px grey);
 }
